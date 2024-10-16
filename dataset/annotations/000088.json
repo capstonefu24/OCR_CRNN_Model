@@ -1,0 +1,1496 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "label": "medicine_name",
+      "score": 0.9563682675361633,
+      "points": [
+        [
+          128.0,
+          368.08878504672896
+        ],
+        [
+          562.8411214953271,
+          368.08878504672896
+        ],
+        [
+          562.8411214953271,
+          405.0
+        ],
+        [
+          128.0,
+          405.0
+        ]
+      ],
+      "group_id": 10,
+      "description": "Sulpirid(Devodil 50)50mg",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "medicine_name",
+      "score": 0.9689492583274841,
+      "points": [
+        [
+          131.06542056074764,
+          453.13551401869154
+        ],
+        [
+          633.8691588785047,
+          453.13551401869154
+        ],
+        [
+          633.8691588785047,
+          486.78037383177565
+        ],
+        [
+          131.06542056074764,
+          486.78037383177565
+        ]
+      ],
+      "group_id": 11,
+      "description": "Mosapride citrate(MOSAD MT-5)5mg",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "medicine_name",
+      "score": 0.995559811592102,
+      "points": [
+        [
+          128.4035683942226,
+          622.2943925233644
+        ],
+        [
+          537.607476635514,
+          622.2943925233644
+        ],
+        [
+          537.607476635514,
+          659.5080713678844
+        ],
+        [
+          128.4035683942226,
+          659.5080713678844
+        ]
+      ],
+      "group_id": 13,
+      "description": "Rebamipide(Boxorfen)100mg",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "medicine_name",
+      "score": null,
+      "points": [
+        [
+          132.6530307598141,
+          704.5373831775701
+        ],
+        [
+          529.196261682243,
+          704.5373831775701
+        ],
+        [
+          529.196261682243,
+          741.5594732370433
+        ],
+        [
+          132.6530307598141,
+          741.5594732370433
+        ]
+      ],
+      "group_id": 14,
+      "description": "Levofloxacin(Lan Lan)500mg",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "medicine_name",
+      "score": null,
+      "points": [
+        [
+          130.3177366421669,
+          786.7803738317757
+        ],
+        [
+          534.803738317757,
+          786.7803738317757
+        ],
+        [
+          534.803738317757,
+          824.0852377182955
+        ],
+        [
+          130.3177366421669,
+          824.0852377182955
+        ]
+      ],
+      "group_id": 15,
+      "description": "Amoxicilin(PHARMOX)500mg",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "medicine_name",
+      "score": null,
+      "points": [
+        [
+          130.25303075981395,
+          534.4439252336449
+        ],
+        [
+          497.42056074766356,
+          534.4439252336449
+        ],
+        [
+          497.42056074766356,
+          574.6263509377769
+        ],
+        [
+          130.25303075981395,
+          574.6263509377769
+        ]
+      ],
+      "group_id": 12,
+      "description": "Rabeprazol(APBEZO)20mg",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "header",
+      "score": null,
+      "points": [
+        [
+          535.9370078740158,
+          54.33070866141732
+        ],
+        [
+          746.1732283464567,
+          54.33070866141732
+        ],
+        [
+          746.1732283464567,
+          99.21259842519684
+        ],
+        [
+          535.9370078740158,
+          99.21259842519684
+        ]
+      ],
+      "group_id": 60,
+      "description": "ĐƠN THUỐC",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          55.557692307692264,
+          269.2307692307692
+        ],
+        [
+          237.2884615384615,
+          269.2307692307692
+        ],
+        [
+          237.2884615384615,
+          307.6923076923077
+        ],
+        [
+          55.557692307692264,
+          307.6923076923077
+        ]
+      ],
+      "group_id": 9,
+      "description": "Thuốc điều trị",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          0,
+          1
+        ]
+      ],
+      "label": "patient_name_key",
+      "score": null,
+      "points": [
+        [
+          55.94366197183092,
+          184.0764331210191
+        ],
+        [
+          164.96815286624204,
+          184.0764331210191
+        ],
+        [
+          164.96815286624204,
+          215.9235668789809
+        ],
+        [
+          55.94366197183092,
+          215.9235668789809
+        ]
+      ],
+      "group_id": 0,
+      "description": "Họ tên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          0,
+          1
+        ]
+      ],
+      "label": "patient_name_value",
+      "score": null,
+      "points": [
+        [
+          173.91620188087444,
+          180.23831775700936
+        ],
+        [
+          291.81308411214957,
+          180.23831775700936
+        ],
+        [
+          291.81308411214957,
+          217.08665423776978
+        ],
+        [
+          173.91620188087444,
+          217.08665423776978
+        ]
+      ],
+      "group_id": 1,
+      "description": "LƯƠNG MINH V",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          2,
+          3
+        ]
+      ],
+      "label": "patient_age_key",
+      "score": null,
+      "points": [
+        [
+          512.1526717557252,
+          180.15267175572518
+        ],
+        [
+          593.0687022900763,
+          180.15267175572518
+        ],
+        [
+          593.0687022900763,
+          213.74045801526717
+        ],
+        [
+          512.1526717557252,
+          213.74045801526717
+        ]
+      ],
+      "group_id": 2,
+      "description": "Tuổi",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          2,
+          3
+        ]
+      ],
+      "label": "patient_age_value",
+      "score": null,
+      "points": [
+        [
+          609.0992366412214,
+          181.39130434782612
+        ],
+        [
+          648.304347826087,
+          181.39130434782612
+        ],
+        [
+          648.304347826087,
+          213.5205774975108
+        ],
+        [
+          609.0992366412214,
+          213.5205774975108
+        ]
+      ],
+      "group_id": 3,
+      "description": "69",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "patient_weight_key",
+      "score": null,
+      "points": [
+        [
+          683.0869565217392,
+          180.30434782608697
+        ],
+        [
+          808.6304347826087,
+          180.30434782608697
+        ],
+        [
+          808.6304347826087,
+          217.2608695652174
+        ],
+        [
+          683.0869565217392,
+          217.2608695652174
+        ]
+      ],
+      "group_id": 4,
+      "description": "Cân Nặng",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          4,
+          5
+        ]
+      ],
+      "label": "patient_weight_value",
+      "score": null,
+      "points": [
+        [
+          812.9782608695652,
+          180.30434782608694
+        ],
+        [
+          881.4565217391304,
+          180.30434782608694
+        ],
+        [
+          881.4565217391304,
+          218.3478260869565
+        ],
+        [
+          812.9782608695652,
+          218.3478260869565
+        ]
+      ],
+      "group_id": 5,
+      "description": "........",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          6,
+          7
+        ]
+      ],
+      "label": "patient_gender_key",
+      "score": null,
+      "points": [
+        [
+          886.8913043478261,
+          180.30434782608697
+        ],
+        [
+          992.3260869565217,
+          180.30434782608697
+        ],
+        [
+          992.3260869565217,
+          219.43478260869566
+        ],
+        [
+          886.8913043478261,
+          219.43478260869566
+        ]
+      ],
+      "group_id": 6,
+      "description": "Nam/Nữ",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [
+        [
+          6,
+          7
+        ]
+      ],
+      "label": "patient_gender_value",
+      "score": null,
+      "points": [
+        [
+          997.7608695652175,
+          180.30434782608697
+        ],
+        [
+          1076.0217391304348,
+          180.30434782608697
+        ],
+        [
+          1076.0217391304348,
+          219.43478260869566
+        ],
+        [
+          997.7608695652175,
+          219.43478260869566
+        ]
+      ],
+      "group_id": 7,
+      "description": "Nam",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "diagnosis_key",
+      "score": null,
+      "points": [
+        [
+          55.93162393162389,
+          230.6958041958042
+        ],
+        [
+          197.73426573426573,
+          230.6958041958042
+        ],
+        [
+          197.73426573426573,
+          267.52136752136755
+        ],
+        [
+          55.93162393162389,
+          267.52136752136755
+        ]
+      ],
+      "group_id": 8,
+      "description": "Chẩn đoán",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          66.66168012389463,
+          878.5372457458177
+        ],
+        [
+          228.20014166235615,
+          878.5372457458177
+        ],
+        [
+          228.20014166235615,
+          910.268014976587
+        ],
+        [
+          66.66168012389463,
+          910.268014976587
+        ]
+      ],
+      "group_id": 46,
+      "description": "Khám lại ngày",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          56.79325907126295,
+          916.0372457458176
+        ],
+        [
+          142.37018214818602,
+          916.0372457458176
+        ],
+        [
+          142.37018214818602,
+          946.8064765150485
+        ],
+        [
+          56.79325907126295,
+          946.8064765150485
+        ]
+      ],
+      "group_id": 47,
+      "description": "Lời dặn:",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          676.0240283020323,
+          874.6910918996639
+        ],
+        [
+          1040.4471052251083,
+          874.6910918996639
+        ],
+        [
+          1040.4471052251083,
+          914.1141688227409
+        ],
+        [
+          676.0240283020323,
+          914.1141688227409
+        ]
+      ],
+      "group_id": 48,
+      "description": "Ngày 19 Tháng 06 Năm 2020",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          692.3701821481861,
+          924.6910918996638
+        ],
+        [
+          1021.2163359943404,
+          924.6910918996638
+        ],
+        [
+          1021.2163359943404,
+          964.1141688227403
+        ],
+        [
+          692.3701821481861,
+          964.1141688227403
+        ]
+      ],
+      "group_id": 49,
+      "description": "Bác sỹ/Y sỹ khám bệnh",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          740.4471052251092,
+          972.7680149765874
+        ],
+        [
+          975.0624898404938,
+          972.7680149765874
+        ],
+        [
+          975.0624898404938,
+          1010.2680149765878
+        ],
+        [
+          740.4471052251092,
+          1010.2680149765878
+        ]
+      ],
+      "group_id": 50,
+      "description": "(Ký, ghi rõ họ tên)",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          53.908643686647565,
+          1124.6910918996653
+        ],
+        [
+          411.6009513789552,
+          1124.6910918996653
+        ],
+        [
+          411.6009513789552,
+          1157.3833995919729
+        ],
+        [
+          53.908643686647565,
+          1157.3833995919729
+        ]
+      ],
+      "group_id": 51,
+      "description": "- Khám lại xin mang theo đơn này",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          55.112296149292774,
+          1189.5914792820665
+        ],
+        [
+          811.843065380062,
+          1189.5914792820665
+        ],
+        [
+          811.843065380062,
+          1223.2453254359123
+        ],
+        [
+          55.112296149292774,
+          1223.2453254359123
+        ]
+      ],
+      "group_id": 52,
+      "description": "- Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh:",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9839938282966614,
+      "points": [
+        [
+          62.0,
+          327.158273381295
+        ],
+        [
+          128.0,
+          327.158273381295
+        ],
+        [
+          128.0,
+          358.158273381295
+        ],
+        [
+          62.0,
+          358.158273381295
+        ]
+      ],
+      "group_id": 20,
+      "description": "STT",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9305307269096375,
+      "points": [
+        [
+          523.2908496732027,
+          325.5294117647059
+        ],
+        [
+          712.7352941176471,
+          325.5294117647059
+        ],
+        [
+          712.7352941176471,
+          359.47385620915037
+        ],
+        [
+          523.2908496732027,
+          359.47385620915037
+        ]
+      ],
+      "group_id": 21,
+      "description": "Thuốc điều trị",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9924465417861938,
+      "points": [
+        [
+          894.9001987891933,
+          370.9273064064335
+        ],
+        [
+          937.9001987891933,
+          370.9273064064335
+        ],
+        [
+          937.9001987891933,
+          399.9273064064335
+        ],
+        [
+          894.9001987891933,
+          399.9273064064335
+        ]
+      ],
+      "group_id": 22,
+      "description": "28",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.8326553702354431,
+      "points": [
+        [
+          1003.8253968253969,
+          369.7539682539683
+        ],
+        [
+          1071.2857142857142,
+          369.7539682539683
+        ],
+        [
+          1071.2857142857142,
+          400.33206831119537
+        ],
+        [
+          1003.8253968253969,
+          400.33206831119537
+        ]
+      ],
+      "group_id": 23,
+      "description": "Viên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9986240863800049,
+      "points": [
+        [
+          83.69431643625217,
+          393.19201228878643
+        ],
+        [
+          104.69431643625217,
+          393.19201228878643
+        ],
+        [
+          104.69431643625217,
+          418.19201228878643
+        ],
+        [
+          83.69431643625217,
+          418.19201228878643
+        ]
+      ],
+      "group_id": 24,
+      "description": "1",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9646026492118835,
+      "points": [
+        [
+          129.72651924543334,
+          408.2757009345794
+        ],
+        [
+          706.7663551401869,
+          408.2757009345794
+        ],
+        [
+          706.7663551401869,
+          443.56349206349216
+        ],
+        [
+          129.72651924543334,
+          443.56349206349216
+        ]
+      ],
+      "group_id": 25,
+      "description": "Sáng : 1 Viên, Chiều : 1 Viên. Uỗng sau bữa ăn",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9987624883651733,
+      "points": [
+        [
+          891.8749443702716,
+          450.6031746031745
+        ],
+        [
+          936.8749443702716,
+          450.6031746031745
+        ],
+        [
+          936.8749443702716,
+          485.60317460317447
+        ],
+        [
+          891.8749443702716,
+          485.60317460317447
+        ]
+      ],
+      "group_id": 26,
+      "description": "28",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.8869171738624573,
+      "points": [
+        [
+          1000.8749443702716,
+          449.53775404242685
+        ],
+        [
+          1071.8749443702716,
+          449.53775404242685
+        ],
+        [
+          1071.8749443702716,
+          487.53775404242674
+        ],
+        [
+          1000.8749443702716,
+          487.53775404242674
+        ]
+      ],
+      "group_id": 27,
+      "description": "Viên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9995869994163513,
+      "points": [
+        [
+          82.74410324877618,
+          473.6685951639222
+        ],
+        [
+          105.74410324877618,
+          473.6685951639222
+        ],
+        [
+          105.74410324877618,
+          503.6685951639215
+        ],
+        [
+          82.74410324877618,
+          503.6685951639215
+        ]
+      ],
+      "group_id": 28,
+      "description": "2",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9646026492118835,
+      "points": [
+        [
+          131.2145082331998,
+          493.322429906542
+        ],
+        [
+          723.588785046729,
+          493.322429906542
+        ],
+        [
+          723.588785046729,
+          525.521658507639
+        ],
+        [
+          131.2145082331998,
+          525.521658507639
+        ]
+      ],
+      "group_id": 29,
+      "description": "Sáng : 1 Viên, Chiều : 1 Viên. Uõng trước bữa ăn",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9974780082702637,
+      "points": [
+        [
+          893.2130922037464,
+          537.1112459710582
+        ],
+        [
+          938.2130922037464,
+          537.1112459710582
+        ],
+        [
+          938.2130922037464,
+          571.1112459710582
+        ],
+        [
+          893.2130922037464,
+          571.1112459710582
+        ]
+      ],
+      "group_id": 30,
+      "description": "28",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.8371056318283081,
+      "points": [
+        [
+          1002.2130922037464,
+          535.1112459710582
+        ],
+        [
+          1073.2130922037463,
+          535.1112459710582
+        ],
+        [
+          1073.2130922037463,
+          573.1112459710582
+        ],
+        [
+          1002.2130922037464,
+          573.1112459710582
+        ]
+      ],
+      "group_id": 31,
+      "description": "Viên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9993265867233276,
+      "points": [
+        [
+          81.27851276449411,
+          560.1766665318058
+        ],
+        [
+          104.27851276449411,
+          560.1766665318058
+        ],
+        [
+          104.27851276449411,
+          587.1766665318058
+        ],
+        [
+          81.27851276449411,
+          587.1766665318058
+        ]
+      ],
+      "group_id": 32,
+      "description": "3",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.974684476852417,
+      "points": [
+        [
+          131.7686477593021,
+          578.3691588785047
+        ],
+        [
+          723.588785046729,
+          578.3691588785047
+        ],
+        [
+          723.588785046729,
+          612.0556904155028
+        ],
+        [
+          131.7686477593021,
+          612.0556904155028
+        ]
+      ],
+      "group_id": 33,
+      "description": "Sáng : 1 Viên, Chiều : 1 Viên. Uõng trước bữa ăn",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9977049827575684,
+      "points": [
+        [
+          891.2130922037464,
+          623.1112459710582
+        ],
+        [
+          938.2130922037464,
+          623.1112459710582
+        ],
+        [
+          938.2130922037464,
+          657.1112459710582
+        ],
+        [
+          891.2130922037464,
+          657.1112459710582
+        ]
+      ],
+      "group_id": 34,
+      "description": "28",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.8443310260772705,
+      "points": [
+        [
+          1004.2130922037464,
+          618.9353295613294
+        ],
+        [
+          1071.6122014877478,
+          618.9353295613294
+        ],
+        [
+          1071.6122014877478,
+          655.1112459710582
+        ],
+        [
+          1004.2130922037464,
+          655.1112459710582
+        ]
+      ],
+      "group_id": 35,
+      "description": "Viên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9999172687530518,
+      "points": [
+        [
+          82.34393332524178,
+          642.4383487747965
+        ],
+        [
+          103.34393332524178,
+          642.4383487747965
+        ],
+        [
+          103.34393332524178,
+          668.4383487747965
+        ],
+        [
+          82.34393332524178,
+          668.4383487747965
+        ]
+      ],
+      "group_id": 36,
+      "description": "4",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9026644825935364,
+      "points": [
+        [
+          129.21309220374644,
+          662.481308411215
+        ],
+        [
+          703.9626168224299,
+          662.481308411215
+        ],
+        [
+          703.9626168224299,
+          698.7223570821693
+        ],
+        [
+          129.21309220374644,
+          698.7223570821693
+        ]
+      ],
+      "group_id": 37,
+      "description": "Sáng : 1 Viên, Chiều : 1 Viên. Uỗng sau bữa ăn",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9995026588439941,
+      "points": [
+        [
+          890.3729321865794,
+          706.3675561012224
+        ],
+        [
+          937.3729321865794,
+          706.3675561012224
+        ],
+        [
+          937.3729321865794,
+          741.3675561012224
+        ],
+        [
+          890.3729321865794,
+          741.3675561012224
+        ]
+      ],
+      "group_id": 38,
+      "description": "28",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.8326553702354431,
+      "points": [
+        [
+          1004.7396726736124,
+          706.9734919286321
+        ],
+        [
+          1067.3344095157177,
+          706.9734919286321
+        ],
+        [
+          1067.3344095157177,
+          738.6852566345145
+        ],
+        [
+          1004.7396726736124,
+          738.6852566345145
+        ]
+      ],
+      "group_id": 39,
+      "description": "Viên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9993708729743958,
+      "points": [
+        [
+          84.1766705043365,
+          727.1675561012223
+        ],
+        [
+          107.1766705043365,
+          727.1675561012223
+        ],
+        [
+          107.1766705043365,
+          755.1675561012223
+        ],
+        [
+          84.1766705043365,
+          755.1675561012223
+        ]
+      ],
+      "group_id": 40,
+      "description": "5",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9646026492118835,
+      "points": [
+        [
+          133.1535331788454,
+          744.7242990654206
+        ],
+        [
+          703.8754950102962,
+          744.7242990654206
+        ],
+        [
+          703.8754950102962,
+          779.7068631863215
+        ],
+        [
+          133.1535331788454,
+          779.7068631863215
+        ]
+      ],
+      "group_id": 41,
+      "description": "Sáng : 1 Viên, Chiều : 1 Viên. Uỗng sau bữa ăn",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.9992302060127258,
+      "points": [
+        [
+          892.4490262041918,
+          789.6732342109653
+        ],
+        [
+          939.4490262041918,
+          789.6732342109653
+        ],
+        [
+          939.4490262041918,
+          825.6732342109653
+        ],
+        [
+          892.4490262041918,
+          825.6732342109653
+        ]
+      ],
+      "group_id": 42,
+      "description": "56",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.8718094229698181,
+      "points": [
+        [
+          1004.6553754105408,
+          790.0859326236639
+        ],
+        [
+          1071.6553754105407,
+          790.0859326236639
+        ],
+        [
+          1071.6553754105407,
+          822.0859326236639
+        ],
+        [
+          1004.6553754105408,
+          822.0859326236639
+        ]
+      ],
+      "group_id": 43,
+      "description": "Viên",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": null,
+      "points": [
+        [
+          80.86172461689026,
+          811.0779961157273
+        ],
+        [
+          108.63950239466803,
+          811.0779961157273
+        ],
+        [
+          108.63950239466803,
+          842.1891072268386
+        ],
+        [
+          80.86172461689026,
+          842.1891072268386
+        ]
+      ],
+      "group_id": 44,
+      "description": "6",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "label": "others",
+      "score": 0.974684476852417,
+      "points": [
+        [
+          132.066961392797,
+          828.8364485981308
+        ],
+        [
+          703.9626168224299,
+          828.8364485981308
+        ],
+        [
+          703.9626168224299,
+          863.0904410811745
+        ],
+        [
+          132.066961392797,
+          863.0904410811745
+        ]
+      ],
+      "group_id": 45,
+      "description": "Sáng : 2 Viên, Chiều : 2 Viên. Uỗng sau bữa ăn",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\dataset_21_09_2024 (1)\\dataset_21_09_2024\\000088.jpg",
+  "imageData": null,
+  "imageHeight": 1653,
+  "imageWidth": 1164,
+  "description": ""
+}
